@@ -21,5 +21,6 @@ I am a passionate computer science student in UW-Madison, hoping to learn more a
 
 # Socials
 LinkedIn: www.linkedin.com/in/ik-teng-liaw-b261a02a8
+
 Handshake: https://wisc.joinhandshake.com/stu/users/50231193
 

@@ -1,19 +1,22 @@
-### Hi there 👋
+# Introduction
+### Hi there 👋, I'm Ik Teng
 
-### Programming Lanugages:
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/ikteng/ikteng/blob/main/python.svg" height="50" /></a>
+## I am a passionate computer science student in UW-Madison, hoping to learn more and improve myself.
+
+# Work
+- 🔭 I’m currently working on Credit Card Approval Prediction
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: iktengliaw@gmail.com
+- 😄 Pronouns: she/her
 
 <!--
-**ikteng/ikteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+- 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Skills
+### Programming Skills
+
+

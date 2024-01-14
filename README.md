@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# Programming Lanugages:
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/ikteng/ikteng/blob/main/python.svg" height="50" /></a>
+### Programming Lanugages:
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://github.com/ikteng/ikteng/blob/main/python.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw28rOJKY5YjJIRogd0hyiUX&ust=1705349859507000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDmlrfZ3YMDFQAAAAAdAAAAABAD)" height="50" /></a>
 
 <!--
 **ikteng/ikteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

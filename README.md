@@ -1,7 +1,6 @@
 # Introduction
 ### Hi there 👋, I'm Ik Teng
-
-## I am a passionate computer science student in UW-Madison, hoping to learn more and improve myself.
+I am a passionate computer science student in UW-Madison, hoping to learn more and improve myself.
 
 # Work
 - 🔭 I’m currently working on Credit Card Approval Prediction
@@ -18,5 +17,5 @@
 
 # Skills
 ### Programming Skills
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 

@@ -40,3 +40,5 @@ Handshake: https://wisc.joinhandshake.com/stu/users/50231193
 
 Kaggle: https://www.kaggle.com/iktengliaw
 
+Google Cloud: https://www.cloudskillsboost.google/public_profiles/c090a3fb-5820-42f6-9bc3-d6a3a4d3b1d4
+

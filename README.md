@@ -18,6 +18,7 @@ I am a passionate computer science student in UW-Madison, hoping to learn more a
 - Themepark Ticketing System
 - Calculator
 - Tic-Tac-Toe game
+- Connect 4 game
 - Predicting Ice days of Lake Monona
 - Lanuage Predictor
 - Facial Analysis using PCA

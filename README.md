@@ -16,6 +16,8 @@ I am a passionate computer science student in UW-Madison, hoping to learn more a
 
 # Projects
 - Themepark Ticketing System
+- Movie Review Analysis
+- News Classification
 - Calculator
 - Tic-Tac-Toe game
 - Connect 4 game

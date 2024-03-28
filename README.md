@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋!I'm Ik Teng</h1>
-<h3 align="center">A passionate computer science student in UW-Madison</h3>
+<h3 align="center">A passionate computer science student in UW - Madison</h3>
 <br>
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/ikteng/ikteng.github.io)
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋!I'm Ik Teng</h1>
-<h2 align="center">A passionate computer science student in UW-Madison</h2>
-
+<h3 align="center">A passionate computer science student in UW-Madison</h3>
+<br>
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/ikteng/ikteng.github.io)
 
 - 🌱 I’m currently learning Machine Learning
@@ -10,10 +10,8 @@
 - 📫 How to reach me: iktengliaw@gmail.com
 
 - ⚡ Fun fact: I studied in both Malaysia and Singapore, currently studying in United States
-
 <br>
-
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -23,7 +21,7 @@
 
 <br>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
@@ -36,7 +34,7 @@
 
 <br>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Social</h3>
 <p align="left"> 
     <a href="https://kaggle.com/iktengliaw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iktengliaw" height="40" width="40" /></a>
     <a href="https://github.com/iktengliaw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ikteng" height="40" width="40" /></a>

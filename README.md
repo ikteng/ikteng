@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github/ikteng](github/ikteng)
 
-- 📫 How to reach me **iktengliaw@gmail.com**
+- 📫 How to reach me: **iktengliaw@gmail.com**
 
 - ⚡ Fun fact **I studied in both Malaysia and Singapore, currently studying in United States**
 

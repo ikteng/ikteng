@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!I'm Ik Teng</h1>
+<h1 align="center">Hi! I'm Ik Teng</h1>
 <h3 align="center">A passionate computer science student in UW - Madison</h3>
 <br>
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/ikteng/ikteng.github.io)
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: iktengliaw@gmail.com
 
-- ⚡ Fun fact: I studied in both Malaysia and Singapore, currently studying in United States
+- ⚡ Fun fact: I love to take pictures of beautiful things at that moment.
 <br>
 <h3 align="left">Languages</h3>
 <p align="left">

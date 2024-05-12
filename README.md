@@ -25,7 +25,7 @@ I am a passionate computer science student in UW-Madison, hoping to learn more a
 - Lanuage Predictor
 - Facial Analysis using PCA
 - Speech Recognition
-- Digit Prediction (to be improved)
+- Digit Prediction
 - Pomodoro
 - Face Detection
 - ChatBot (to be improved)

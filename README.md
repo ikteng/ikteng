@@ -1,43 +1,33 @@
 # Introduction
-### Hi there 👋, I'm Ik Teng
-I am a passionate computer science student in UW-Madison, hoping to learn more and improve myself.
 
-- 🔭 I’m currently working on Credit Card Approval Prediction
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: iktengliaw@gmail.com
-- 😄 Pronouns: she/her
+### Hello! 👋
+## I'm Ik Teng Liaw.
+I'm a senior Computer Science student at the University of Wisconsin-Madison with a passion for solving complex problems using technology. With a strong background in Python, machine learning, data analysis, and software development, I thrive in environments that encourage creativity and collaboration.
 
-<!--
-- ⚡ Fun fact: ...
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+I'm driven by curiosity and a desire to make a positive impact through innovation. Whether it’s building cutting-edge machine learning models, designing intuitive web applications, or analyzing data to uncover valuable insights, I always aim to push the boundaries of what’s possible.
+
+Beyond coding, I enjoy photography and gaming, which keep me inspired and help me stay balanced. I'm always eager to learn, collaborate, and contribute to projects that make a real difference.
+
+If you're interested in connecting or collaborating on exciting projects, feel free to reach out at iktengliaw@gmail.com!
 
 # Projects
-- Themepark Ticketing System
-- Movie Review Analysis
-- News Classification
-- Calculator
-- Tic-Tac-Toe game
-- Connect 4 game
-- Predicting Ice days of Lake Monona
-- Lanuage Predictor
-- Facial Analysis using PCA
-- Speech Recognition
-- Digit Prediction
-- Pomodoro
-- Face Detection
-- ChatBot (to be improved)
-
+Check out my repositories!
+https://github.com/ikteng?tab=repositories
 
 # Skills
 ### Programming Skills & Tools
 - Python & Java, HTML & CSS
-- Matlibplot, sci-kit learn, pandas
-- Tensorflow, Pytorch
+- Matlibplot, sci-kit learn, pandas, seaborn
+- Tensorflow, Pytorch, keras, OpenCV
+- Flask, MySQL, sqlite
 
-# Socials
-Handshake: https://wisc.joinhandshake.com/stu/users/50231193
-Kaggle: https://www.kaggle.com/iktengliaw
-Google Cloud: https://www.cloudskillsboost.google/public_profiles/c090a3fb-5820-42f6-9bc3-d6a3a4d3b1d4
+### Design Tools
+- Figma
+- Canva
+- Krita
+- Blender
+
+### Languages
+- English
+- Chinese
+- Malay

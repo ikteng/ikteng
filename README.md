@@ -1,33 +1,57 @@
-# Introduction
+# 👋 Hello, I'm Ik Teng Liaw!
 
-### Hello! 👋
-## I'm Ik Teng Liaw.
-I'm a senior Computer Science student at the University of Wisconsin-Madison with a passion for solving complex problems using technology. With a strong background in Python, machine learning, data analysis, and software development, I thrive in environments that encourage creativity and collaboration.
+I'm a recent Computer Science graduate from the University of Wisconsin–Madison with a passion for building impactful, data-driven solutions. I enjoy working at the intersection of machine learning, software development, and human-centered design.
 
-I'm driven by curiosity and a desire to make a positive impact through innovation. Whether it’s building cutting-edge machine learning models, designing intuitive web applications, or analyzing data to uncover valuable insights, I always aim to push the boundaries of what’s possible.
+I have hands-on experience in designing full-stack platforms, training AI models, and developing tools that extract meaningful insights from complex data. Whether it’s a deep learning pipeline, a real-time application, or a predictive analytics dashboard, I aim to combine technical excellence with user-centric thinking.
 
-Beyond coding, I enjoy photography and gaming, which keep me inspired and help me stay balanced. I'm always eager to learn, collaborate, and contribute to projects that make a real difference.
+Beyond coding, I enjoy photography, gaming, and learning new tools to express creativity. I'm always open to meaningful collaborations and opportunities to grow.
 
-If you're interested in connecting or collaborating on exciting projects, feel free to reach out at iktengliaw@gmail.com!
+📬 Feel free to reach out: **iktengliaw@gmail.com**  
+🌐 Portfolio: [ikteng.github.io](https://ikteng.github.io)
 
-# Projects
-Check out my repositories!
-https://github.com/ikteng?tab=repositories
+---
 
-# Skills
-### Programming Skills & Tools
-- Python & Java, HTML & CSS
-- Matlibplot, sci-kit learn, pandas, seaborn
-- Tensorflow, Pytorch, keras, OpenCV
-- Flask, MySQL, sqlite
+## 🧠 Projects
 
-### Design Tools
-- Figma
-- Canva
-- Krita
-- Blender
+### [Customer Churn Prediction Platform](https://github.com/ACarrig/NUUMobile1) – UW–Madison Capstone  
+A full-stack platform (React + Flask) that allows multi-file uploads, real-time churn predictions, and AI-driven insights.
 
-### Languages
-- English
-- Chinese
-- Malay
+### [Pneumonia Detection using DenseNet](https://github.com/ikteng/RSNA-Pneumonia-Detection-Project)  
+Built a DenseNet model to classify pneumonia from X-rays with 85% accuracy. Handled DICOM preprocessing and addressed class imbalance using SMOTE.
+
+### [IMDb Sentiment Analysis](https://github.com/ikteng/Movie_Reviews)  
+Used Naive Bayes and deep learning to classify movie reviews as positive/negative, achieving over 85% accuracy.
+
+### [Age & Gender Predictor](https://github.com/ikteng/Age-and-Gender-Predictor)  
+Developed a real-time webcam app using CNN models, PyTorch, OpenCV, and MediaPipe to predict age and gender from facial images.
+
+---
+
+## 🛠 Skills
+
+### Programming Languages & Technologies
+- **Python, Java, JavaScript**
+- **HTML, CSS, React**
+- **MATLAB, SQL**
+
+### ML & Data Tools
+- **PyTorch, TensorFlow, Keras, Scikit-learn**
+- **Pandas, Matplotlib, Seaborn**
+- **OpenCV, SMOTE**
+
+### Platforms & Tools
+- **Flask, Docker, Git, Figma, Canva**
+- **Microsoft Excel / PowerPoint / Word**
+
+---
+
+## 🗣 Languages
+- **English** (Fluent)  
+- **Chinese** (Fluent)  
+- **Malay** (Beginner)
+
+---
+
+## 📁 Repositories
+
+🔗 Check out my GitHub work: [github.com/ikteng?tab=repositories](https://github.com/ikteng?tab=repositories)

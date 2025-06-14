@@ -37,7 +37,6 @@ Developed a real-time webcam app using CNN models, PyTorch, OpenCV, and MediaPip
 ### ML & Data Tools
 - **PyTorch, TensorFlow, Keras, Scikit-learn**
 - **Pandas, Matplotlib, Seaborn**
-- **OpenCV, SMOTE**
 
 ### Platforms & Tools
 - **Flask, Docker, Git, Figma, Canva**

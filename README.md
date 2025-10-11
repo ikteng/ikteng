@@ -23,7 +23,7 @@ Built a DenseNet model to classify pneumonia from X-rays with 85% accuracy. Hand
 Used Naive Bayes and deep learning to classify movie reviews as positive/negative, achieving over 85% accuracy.
 
 ### [Age & Gender Predictor](https://github.com/ikteng/Age-and-Gender-Predictor)  
-Developed a real-time webcam app using CNN models, PyTorch, OpenCV, and MediaPipe to predict age and gender from facial images.
+Developed a real-time webcam app using CNN models, PyTorch, and OpenCV to predict age and gender from facial images.
 
 ---
 

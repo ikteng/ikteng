@@ -13,7 +13,7 @@ Beyond coding, I enjoy photography, gaming, and learning new tools to express cr
 
 ## 🧠 Projects
 
-### [Customer Churn Prediction Platform](https://github.com/ACarrig/NUUMobile1) – UW–Madison Capstone  
+### [Customer Churn Prediction Platform](https://github.com/ikteng/NUUMobile1) – UW–Madison Capstone  
 A full-stack platform (React + Flask) that allows multi-file uploads, real-time churn predictions, and AI-driven insights.
 
 ### [Pneumonia Detection using DenseNet](https://github.com/ikteng/RSNA-Pneumonia-Detection-Project)  
